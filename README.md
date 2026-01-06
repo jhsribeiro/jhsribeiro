@@ -10,12 +10,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=jhsribeiro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
 <br/>
 
 ### 👩‍💻 Sobre Mim
@@ -91,13 +85,7 @@ Sou estudante de **Banco de Dados e Big Data** e atuo como **Estagiária de Aná
   <img src="https://github-readme-streak-stats.demolab.com/?user=jhsribeiro&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
 </div>
 
-<br>
-<br>
-
-<div align="center">
-  <img src="https://github.com/jhsribeiro/jhsribeiro/raw/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B388FF&height=100&section=footer"/>
+</div>
 </div>
