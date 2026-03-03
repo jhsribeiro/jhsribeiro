@@ -75,15 +75,7 @@ Sou estudante de **Banco de Dados e Big Data** e atuo como **Estagiária de Aná
 
 ### ⚡ GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhsribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhsribeiro&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=jhsribeiro&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
-</div>
+<img src="https://raw.githubusercontent.com/MGT-21/MGT-21/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B388FF&height=100&section=footer"/>
