@@ -9,20 +9,19 @@
   <a href="mailto:jhiovanasribeiro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.instagram.com/jhsribeiro/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 <br/>
 
-### 👩‍💻 Sobre Mim
+## Sobre Mim
 
 Sou estudante de **Banco de Dados e Big Data** e atuo como **Estagiária de Análise de Dados** no Ministério de Minas e Energia. Meu foco é transformar dados brutos em inteligência estratégica, seja criando dashboards, pipelines de ETL ou desenvolvendo agentes de IA.
 
 * Atualmente trabalhando com: **Limpeza de dados (ETL) e Dashboards no Power BI.**
 * Aprendendo: **Engenharia de Dados, Cloud Computing e RAG (Retrieval-Augmented Generation).**
 * Experiência: Desenvolvimento de pipelines e implementação de soluções de dados no setor público.
-
----
-
-### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
 <table>
@@ -71,13 +70,4 @@ Sou estudante de **Banco de Dados e Big Data** e atuo como **Estagiária de Aná
 </table>
 </div>
 
----
-
-### ⚡ GitHub Stats & Activity
-
 <img src="https://raw.githubusercontent.com/MGT-21/MGT-21/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B388FF&height=100&section=footer"/>
-</div>
-</div>
