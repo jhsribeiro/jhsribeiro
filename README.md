@@ -17,11 +17,11 @@
 
 ## Sobre Mim
 
-Sou estudante de **Banco de Dados e Big Data** e atuo como **Estagiária de Análise de Dados** no Ministério de Minas e Energia. Meu foco é transformar dados brutos em inteligência estratégica, seja criando dashboards, pipelines de ETL ou desenvolvendo agentes de IA.
+Graduanda em **Banco de Dados e Big Data** pelo IESB e Estagiária em **Governança de Dados e BI** no Ministério de Minas e Energia. Meu foco é estruturar dados e transformar fluxos complexos em inteligência estratégica por meio de modelagem, automações e dashboards analíticos.
 
-* Atualmente trabalhando com: **Limpeza de dados (ETL) e Dashboards no Power BI.**
-* Aprendendo: **Engenharia de Dados, Cloud Computing e RAG (Retrieval-Augmented Generation).**
-* Experiência: Desenvolvimento de pipelines e implementação de soluções de dados no setor público.
+*  **Atuação Atual:** Governança, pipelines de ETL e criação de dashboards no Power BI (Power Query / DAX) no setor público.
+*  **Explorando & Construindo:** Arquiteturas RAG (Retrieval-Augmented Generation), agentes autônomos de IA e Engenharia de Dados.
+* **Desenvolvimento:** Modelagem em PostgreSQL e criação de APIs RESTful integradas a bancos relacionais.
 
 <div align="center">
 <table>
